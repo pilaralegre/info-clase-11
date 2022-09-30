@@ -1,4 +1,5 @@
-# info-clase-11<!DOCTYPE html>
+# info-clase-11
+<!DOCTYPE html>
 <html lang="es">
     <head>
         <meta charset="utf-8">
